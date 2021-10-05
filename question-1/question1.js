@@ -14,4 +14,4 @@ lowerCaseWords = (array) => {
 let mixedArray = ['PIZZA', 10, true, 25, false, 'Wings']
 
 lowerCaseWords(mixedArray).then((res) => console.log(res))
-.catch((err) => console.log(err));
+.catch((err) => console.log(err))
