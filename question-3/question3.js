@@ -33,4 +33,5 @@ let deleteLogs = () => {
   }
 };
 
+addLogs();
 deleteLogs();
